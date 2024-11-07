@@ -81,4 +81,7 @@ public class CentralServlet implements Servlet {
     public void destroy() {
 
     }
+    public void testGithub(){
+
+    }
 }
